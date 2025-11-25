@@ -1,8 +1,6 @@
 # Analisis_de_datos_Laboratorio_2
 Trabajo Práctico de Laboratorio Nro 2 (Power BI), de la especialización Análisis de Datos del Informatorio.
 
-## Link notebook colab:  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sanjosegustavo/Analisis_Laboratorio1/blob/main/Analisis_laboratorio_1.ipynb) 
-
 ###
 * *Origen*: datos obtenidos desde el sitio Datos Abiertos de Buenos Aires. https://buenosaires.gob.ar/innovacionytransformaciondigital/datos-abiertos-de-buenos-aires
 
